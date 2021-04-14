@@ -1,0 +1,14 @@
+{
+  "name": "draft-kings-api-documentation",
+  "version": "1.0.0",
+  "description": "This is unofficial documentation for the Draft Kings API. Draft Kings very much does NOT intend to have this API used by the public, but then again they don't lock the API down either. If you've ever dealt with APIs that are only intended to be used by the company deploying them, you would know that this documentation is completely without warranty and could go out of date at any moment. Similarly, Draft Kings absolutely will not care at all if you build a big application based on their current API and then roll out a V2 the next day and deprecate V1. You have been warned. :-)",
+  "main": "DraftKingsApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.2"
+  }
+}
